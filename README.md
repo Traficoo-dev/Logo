@@ -34,4 +34,4 @@ Tous les logos sont la propriété de **Traficoo**.
 
 ## Contribuer
 
-Si vous ajoutez une nouvelle version du logo, merci de respecter la structure du dépôt et de **mettre à jour ce fichier `README.md`** avec un aperçu si nécessaire.
+***Les contributions ne sont pas accepté sur ce repo***
